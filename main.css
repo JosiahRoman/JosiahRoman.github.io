@@ -1,0 +1,35 @@
+html {
+    background-color: orange;
+    font: normal "Comic Sans MS", cursive, sans-serif;
+    }
+    
+    h1 {
+      margin: 2px 0 0 0;
+      font: normal 40px 'Mukta', sans-serif;
+      color: blue; 
+    }
+    
+    h3 {
+      margin-top: 0px;
+      font: normal 18px '"Comic Sans MS", cursive, sans-serif; 
+    }
+    
+    a {
+      color: blue;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      color:gold;
+      text-decoration: underline;
+    }
+    
+    a:visited {
+      color:black;
+    }
+    
+    img {
+      margin: 15px 20px 0 0;
+      border: 6px outset brown;
+      width: 250px;
+    }

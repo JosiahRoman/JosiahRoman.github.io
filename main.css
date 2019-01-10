@@ -5,7 +5,7 @@ html {
     
     h1 {
       margin: 2px 0 0 0;
-      font: normal 40px 'Mukta', sans-serif;
+      font: normal 40px "Comic Sans MS", cursive, sans-serif;
       color: blue; 
     }
     
@@ -25,11 +25,11 @@ html {
     }
     
     a:visited {
-      color:black;
+      color:blue;
     }
     
     img {
       margin: 15px 20px 0 0;
-      border: 6px outset brown;
+      border: 6px outset blue;
       width: 250px;
     }

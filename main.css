@@ -3,18 +3,18 @@
 </style>
 html {
     background-color: orange;
-    font: normal "Comic Sans MS", cursive,;
+    font: normal "Comic Sans MS", cursive,sans-serif;
     }
     
     h1 {
       margin: 2px 0 0 0;
-      font: normal 40px "Comic Sans MS", cursive,;
+      font: normal 40px "Comic Sans MS", cursive,sans-serif;
       color: blue; 
     }
     
     h3 {
       margin-top: 0px;
-      font: normal 18px "Comic Sans MS", cursive,; 
+      font: normal 18px "Comic Sans MS", cursive,sans-serif; 
     }
     
     a {
